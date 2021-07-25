@@ -1,3 +1,3 @@
-# angular-czaebg-tyglzb
+# Angular Getting Started Try It Tutorial
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-czaebg-tyglzb)
+Can also [edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-czaebg-tyglzb)
